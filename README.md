@@ -17,13 +17,13 @@ Responsive design, chiroyli va foydalanuvchiga qulay veb-saytlar yaratishni yaxs
 
 **Eslatma**: Mening loyihalarimdan birortasini **fork** qilib, o‘zinggizga moslab olishgiz yoki yangi g‘oya qo‘shib **pull request** yuborishing mumkin!
 
-## Mening so‘nggi loyihalarim (o‘zingnikini qo‘y)
-
+## Mening so‘nggi loyihalarim
+<!--
 1. **[Loyiha nomi 1](link)** — qisqacha tavsif (masalan: Kitoblar savdosi uchun onlayn platforma)
 2. **[Loyiha nomi 2](link)** — chiroyli parallax effektli Rojdestvo sayti
 3. **[Loyiha nomi 3](link)** — NFT kolleksiyasi uchun landing page
 4. **[Loyiha nomi 4](link)** — Smart soatlar uchun veb-sayt
-5. **[Loyiha nomi 5](link)** — Kun.uz kloni (responsive dizayn)
+5. **[Loyiha nomi 5](link)** — Kun.uz kloni (responsive dizayn) -->
 
 ## Men ishlatadigan texnologiyalar va vositalar
 
