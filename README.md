@@ -1,23 +1,31 @@
-# Assalumu alaykum! Mening ismim Asilbek 👋
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Working%20on-Book%20Commerce-yellow?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
-**Front-end** | dasturchiman  
-Responsive design, chiroyli va foydalanuvchiga qulay veb-saytlar yaratishni yaxshi ko‘raman.
+# Hi...! I'm Asilbek 👋
 
-## 👨‍💻 Men haqimda qisqacha
+**Front-end** | Programmer
+I love responsive design, creating beautiful, user-friendly websites.
 
-- 🌱 Hozirda [React / Next.js / TypeScript yoki html/css/js ] bilan ishlayapman
-- 👀 Qiziqishlarim: AI vositalari, mobil ilovalar, o‘yinlar, blockchain
-- 💞 Hamkorlik qilishga ochiqman — agar qiziq loyiha bo‘lsa yozavering!
-- 📫 Meni topish yo‘llari:
+## 👨‍💻 About Me
+I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
 
-  - Telegram: [asilbek_aadmin](https://t.me/asilbek_aadmin)
-  - Instagram: [asilbek_ddiv](https://instagram.com/asilbek_ddiv)
-  - YouTube: [asilbek_ddiv](https://youtube.com/asilbek_ddiv)
+- 🌟 Exploring AI-driven technologies
+- 🎮 Building game-based applications
+- Open to project collaborations
+- You can reach me through:
+
+[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/asilbek_aadmin)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asilbek_ddiv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+
   <!-- - Portfolio sayt: [sening-portfolio.vercel.app](https://...) -->
 
-**Eslatma**: Mening loyihalarimdan birortasini **fork** qilib, o‘zinggizga moslab olishgiz yoki yangi g‘oya qo‘shib **pull request** yuborishing mumkin!
+**NOTE** : You can **fork** and **contribute** to any of the projects
 
-## Mening so‘nggi loyihalarim
+## My projects
 <!--
 1. **[Loyiha nomi 1](link)** — qisqacha tavsif (masalan: Kitoblar savdosi uchun onlayn platforma)
 2. **[Loyiha nomi 2](link)** — chiroyli parallax effektli Rojdestvo sayti
@@ -25,13 +33,18 @@ Responsive design, chiroyli va foydalanuvchiga qulay veb-saytlar yaratishni yaxs
 4. **[Loyiha nomi 4](link)** — Smart soatlar uchun veb-sayt
 5. **[Loyiha nomi 5](link)** — Kun.uz kloni (responsive dizayn) -->
 
-## Men ishlatadigan texnologiyalar va vositalar
+## Languages and Tools
 
-HTML5 • CSS3 • JavaScript • React • Next.js • Tailwind CSS • 
-Git • Vercel • Netlify • Figma • VS Code
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,react,nodejs,git,github,sass,nextjs,linux,pnpm,vite,figma,kali,vscode" />
 
-## 📊 GitHub statistikam
+## Most Used Languages
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SENING_USERNAME&show_icons=true&theme=radical)
+<a href="https://github.com/asilbek-ddiv/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek-ddiv&layout=compact&theme=tokyonight&card_width=350" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENING_USERNAME&layout=compact&theme=radical)
+## 📊 My GitHub stats
+
+<a href="https://github.com/asilbek-ddiv/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asilbek-ddiv&show_icons=true&theme=tokyonight" />
+</a>
