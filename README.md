@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Working%20on-Book%20Commerce-yellow?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 # Hi...! I'm Asilbek 👋
 
 **Front-end** | Programmer
