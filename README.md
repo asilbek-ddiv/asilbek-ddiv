@@ -20,8 +20,9 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 **NOTE** : You can **fork** and **contribute** to any of the projects
 
 ## My projects
+
+1. **[TEZKOR-NEWS24](https://tezkor-news24.vercel.app/)** — TEZKOR-NEWS24 loyihasi (responsive dizayn)
 <!--
-1. **[Loyiha nomi 1](link)** — qisqacha tavsif (masalan: Kitoblar savdosi uchun onlayn platforma)
 2. **[Loyiha nomi 2](link)** — chiroyli parallax effektli Rojdestvo sayti
 3. **[Loyiha nomi 3](link)** — NFT kolleksiyasi uchun landing page
 4. **[Loyiha nomi 4](link)** — Smart soatlar uchun veb-sayt
