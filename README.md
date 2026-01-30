@@ -21,9 +21,9 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 
 ## My projects
 
-1. **[TEZKOR-NEWS24](https://tezkor-news24.vercel.app/)** — TEZKOR-NEWS24 loyihasi (responsive dizayn)
+1. **[TEZKOR-NEWS24](https://tezkor-news24.vercel.app/)** — TEZKOR-NEWS24 loyihasi (responsive dizayn) 
+2. **[Muslim Yordamchi Bot](https://t.me/MuslimYordamchiBot)** — Bu botda: Namoz vaqtlari, Qur'oni Karim, Qibla yo'nalishi, Namoz vaqtida o'qiladigan duolarni topasiz 
 <!--
-2. **[Loyiha nomi 2](link)** — chiroyli parallax effektli Rojdestvo sayti
 3. **[Loyiha nomi 3](link)** — NFT kolleksiyasi uchun landing page
 4. **[Loyiha nomi 4](link)** — Smart soatlar uchun veb-sayt
 5. **[Loyiha nomi 5](link)** — Kun.uz kloni (responsive dizayn) -->
