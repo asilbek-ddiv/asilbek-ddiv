@@ -34,7 +34,7 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 ## Most Used Languages
 
 <a href="https://github.com/asilbek-ddiv/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbek-ddiv&layout=compact&theme=tokyonight&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=asilbek-ddiv&layout=compact&theme=tokyonight&card_width=350" />
 </a>
 
 ## 📊 My GitHub stats
